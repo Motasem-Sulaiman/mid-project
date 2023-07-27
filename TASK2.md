@@ -1,5 +1,14 @@
 ## Create your Pitch
+## team members:
+1- motasem sulaiman
 
+2- mohannad abu qare'a
+
+3- mohammad aljamal
+
+4- esraa obeido 
+
+5- anas alsmadi
 ### Name of Project
 1- Summary of idea
 its a platform where that can people connect togther and communicate and search or post a job 
